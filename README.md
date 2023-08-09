@@ -11,9 +11,9 @@ Dataset Used: https://www.kaggle.com/datasets/iottech/top-engineering-colleges-i
 
 
 ### Project Overview:
-This Power BI project assists students in choosing engineering colleges in India. The dashboard offers:
+This Power BI project assists students in choosing engineering colleges in India. The interactive dashboard offers:
 
-1. Visual insights into college rankings based on key parameters.
+1. Visual insights into College Rankings based on key parameters.
 2. Interactive maps showcasing top colleges across regions.
    
-Designed for ease of use, this project empowers students to make informed decisions about their education. Explore rankings, faculty quality, and placements to find the best-fit engineering college.
+Designed for ease of use, this project empowers students to make informed decisions about their education. Explore rankings, faculty quality, and placements to find the best-fit Engineering College.
